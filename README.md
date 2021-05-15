@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gustavoazro
 - 👀 I’m interested in learn cloud technologies
-- 🌱 I’m currently learning Terraform, Kubernetes, Ansible and so on...
-- 💞️ I’m looking to collaborate with my next job! :)
+- 🌱 I’m currently learning Terraform, Kubernetes, Ansible and so on!
+- 💞️ I’m looking to grow and improve my skills as fast as I can!
 - 📫 How to reach me: gustavoazro@gmail.com
 
 <!---
